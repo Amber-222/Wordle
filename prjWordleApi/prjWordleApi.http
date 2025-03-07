@@ -1,0 +1,6 @@
+@prjWordleApi_HostAddress = http://localhost:5027
+
+GET {{prjWordleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
